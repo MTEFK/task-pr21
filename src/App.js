@@ -13,6 +13,8 @@ function App() {
         </div>
       </header>
       <main>
+        <h2>Слобода Денис</h2>
+
         
       </main>
     </div>

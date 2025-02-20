@@ -1,4 +1,5 @@
 import './App.css';
+import CardShrol from './components/CardShrol';
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
         </div>
       </header>
       <main>
-        
+        <CardShrol></CardShrol>
+      
       </main>
     </div>
   );

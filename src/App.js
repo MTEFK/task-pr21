@@ -14,6 +14,8 @@ function App() {
         </div>
       </header>
       <main>
+        <h2>Слобода Денис</h2>
+        
         <CardShrol></CardShrol>
       
       </main>

@@ -1,5 +1,6 @@
 import './App.css';
 import CardShrol from './components/CardShrol';
+import CardSloboda from './components/CardSloboda';
 
 function App() {
   return (
@@ -15,8 +16,9 @@ function App() {
       </header>
       <main>
         <h2>Слобода Денис</h2>
-        
-        <CardShrol></CardShrol>
+
+        <CardShrol/>
+        <CardSloboda/>
       
       </main>
     </div>

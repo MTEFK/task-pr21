@@ -1,4 +1,5 @@
 import './App.css';
+import CardKhomych from './components/CardKhomych';
 import CardLevchenko from './components/CardLevchenko';
 import CardShrol from './components/CardShrol';
 
@@ -19,6 +20,7 @@ function App() {
         
         <CardShrol/>
         <CardLevchenko/>
+        <CardKhomych/>
       </main>
     </div>
   );

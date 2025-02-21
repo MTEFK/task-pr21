@@ -2,6 +2,7 @@ import './App.css';
 import CardKhomych from './components/CardKhomych';
 import CardLevchenko from './components/CardLevchenko';
 import CardShrol from './components/CardShrol';
+import CardSloboda from './components/CardSloboda';
 
 function App() {
   return (
@@ -20,6 +21,8 @@ function App() {
         
         <CardShrol/>
         <CardLevchenko/>
+        <CardSloboda/>
+      
         <CardKhomych/>
       </main>
     </div>
